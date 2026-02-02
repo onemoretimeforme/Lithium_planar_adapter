@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "SAMTEC_TSW")(type "KiCad")(uri "${KIPRJMOD}/footprints/Samtec.pretty")(options "")(descr ""))
 )
